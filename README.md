@@ -9,7 +9,7 @@ Basis Dollar is a lightweight implementation of the [Basis Protocol](basis.io) o
 ## Contract Addresses
 | Contract  | Address |
 | ------------- | ------------- |
-| Deployer | [0x236d44343649005659FEf4f675d74724c75638D5](https://cn.etherscan.com/token/0x236d44343649005659FEf4f675d74724c75638D5) |
+| Deployer | [0x236d44343649005659FEf4f675d74724c75638D5](https://cn.etherscan.com/address/0x236d44343649005659FEf4f675d74724c75638D5) |
 | Basis Dollar (BSD) | [0x003e0af2916e598Fa5eA5Cb2Da4EDfdA9aEd9Fde](https://cn.etherscan.com/token/0x003e0af2916e598Fa5eA5Cb2Da4EDfdA9aEd9Fde) |
 | Basis Dollar Share (BSDS) | [0xE7C9C188138f7D70945D420d75F8Ca7d8ab9c700](https://cn.etherscan.com/token/0xE7C9C188138f7D70945D420d75F8Ca7d8ab9c700) |
 | Basis Dollar Bond (BSDB) | [0x9f48b2f14517770F2d238c787356F3b961a6616F](https://cn.etherscan.com/token/0x9f48b2f14517770F2d238c787356F3b961a6616F) |
